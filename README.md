@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RaulCristea
+- 👀 I’m interested in computer programming.
+- 🌱 I’m currently learning C/C++
+- 📫 How to reach me: raul.cristea01@gmail.com
